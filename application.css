@@ -1,0 +1,54 @@
+
+
+h1{ 
+    font-family: 'Oswald', sans-serif;
+    font-size: 50px;
+    color: black;  
+    text-align: center; 
+    background-color: antiquewhite;
+    margin-left: 10cm;
+    margin-right: 10cm;
+    height: auto;
+
+}
+
+p{
+    font-family: 'Noto Sans TC', sans-serif;
+    line-height: 25px;
+    text-indent: 1cm;
+}
+
+ul{
+    
+    border-style: dotted;
+    padding: 1cm;
+    margin-left: 5cm;
+    margin-right: 5cm;
+}
+
+ul ul {
+    border-style: none;
+    margin-left:0cm;
+}
+
+
+li li a {
+    border: 5px;
+}
+
+a:hover{
+    background-color: crimson;
+}
+
+#agenda{
+    text-align: center;
+    border-style: none;
+}
+#agenda li{
+    display: inline-block;
+    border: 1px #ccc, sloid;
+    margin-right: 25px;
+    
+
+    
+}
